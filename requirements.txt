@@ -1,8 +1,7 @@
-Streamlit
-Pandas
-Numpy
-BeautifulSoup
+streamlit
+pandas
+numpy
+beautifulsoup4
 requests
-Matplotlib
+matplotlib
 seaborn
-json
