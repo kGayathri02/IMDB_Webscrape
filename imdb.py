@@ -2,11 +2,9 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import plotly as px
 import requests
 import json
 from bs4 import BeautifulSoup
-from collections import Counter
 import streamlit as st 
 
 def web_scrape():
